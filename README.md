@@ -9,7 +9,6 @@ Hacktoberfest Participation Rules. This page provides comprehensive information 
 # Everyone is Welcome
 
 We welcome contributors of all levels, whether you're a beginner or an experienced coder. If you're new to open source or competitive programming, this is a great opportunity to learn and collaborate with others. If you're an experienced coder, we'd love to have your expertise.
-
 Happy Hacking, and let's make Hacktoberfest 2023 a great success together!
 
 
