@@ -1,36 +1,63 @@
-Hacktoberfest 2023 - DSA Challenge
-Welcome to the Hacktoberfest 2023 DSA Challenge repository! We're excited to have you here.
+# Hacktoberfest 2023 - DSA Challenge Repository
 
-About Hacktoberfest
-Hacktoberfest is a month-long celebration of open source software in October. During this period, individuals from around the world come together to contribute to open-source projects, learn, and win exciting rewards.
+Welcome to the Hacktoberfest 2023 DSA Challenge Repository! We are excited to have you here and are looking forward to your contributions. This repository is all about Data Structures and Algorithms (DSA), and it features problems from various competitive programming platforms like GeeksforGeeks, LeetCode, and more.
+For detailed participation rules and guidelines, please refer to the official [Hacktoberfest website:](https://hacktoberfest.com/)
+Hacktoberfest Participation Rules. This page provides comprehensive information on how to participate in a professional and compliant manner.
 
-Challenge Overview
-In this Hacktoberfest 2023 repository, we're focusing on Data Structures and Algorithms (DSA). We have gathered a selection of problems from popular competitive programming platforms like GeeksforGeeks, LeetCode, and more.
+![image](https://github.com/iShayann/calculator_drax/assets/115067200/a4f4d0f0-55e1-4506-b962-b06ebcd15bbc)
 
-How to Participate
-Get Started: To get started, fork this repository to your GitHub account.
+## How to Contribute
 
-Choose a Problem: Browse through the problems directory to find a problem you'd like to work on. Each problem is located in its own folder, and you'll find a detailed problem statement inside.
+To participate in Hacktoberfest and contribute to this repository, follow these steps:
 
-Solve the Problem: Write a solution to the problem in your preferred programming language. Make sure to follow best coding practices and provide clear comments for your code.
+1. **Fork this Repository**: Click the "Fork" button on the top right of this page to create your own copy of this repository.
 
-Create a Pull Request (PR): When your solution is ready, create a Pull Request to this repository. In the PR description, explain your solution and provide a link to the problem you've solved. Make sure to follow the PR template provided.
+2. **Clone your Fork**: Use `git clone` to clone your fork to your local machine.
 
-Review and Collaboration: Your PR will be reviewed by the maintainers. You may need to make adjustments based on feedback.
+   ```sh
+   git clone https://github.com/your-username/hacktoberfest-dsa-2023.git
+ 
+3. **Create a Branch**: Create a new branch for your contribution.
 
-Win Rewards: After submitting four valid PRs, you'll be eligible to win our digital reward kit. It's our way of appreciating your contributions to open source!
+   ```sh
+   git checkout -b your-branch-name
+ 
+4. **Solve a Problem**:Choose a problem from the repository, solve it, and make sure it's working correctly.
 
-Contribution Guidelines
-Ensure your code is clean, well-documented, and follows the repository's code style.
+5. **Commit your changes**: Create a new branch for your contribution.
 
-PRs should be created in the specified format to make it easier for maintainers to review.
+   ```sh
+   git add .
+   git commit -m "Added solution for problem-X"
 
-Please be respectful and collaborative with other contributors. We're all here to learn and grow together.
+ 
+6. **Push to your fork**: Push your changes to your fork on GitHub.
 
-Get Started!
-So, what are you waiting for? Dive into the world of DSA, sharpen your coding skills, and be a part of Hacktoberfest 2023. Everyone is welcome, from beginners to experts. We're excited to see your contributions!
+   ```sh
+   git push origin your-branch-name
+   
+Replace your-branch-name with the name of your branch.
+ 
+7. **Create a Pull Request (PR)**:Go to your fork on GitHub and click on "New Pull Request." Make sure to choose the original repository and your branch.
 
-If you have any questions or need assistance, feel free to reach out to the maintainers or open an issue.
+8. **Review and Refine**: Your PR will be reviewed, and you may need to make some changes before it's accepted. This process may take some time, so be patient.
 
-Happy Hacking! 🚀
+4. **Win Digital Reward Kit**:Upon submitting four valid PRs, you'll be eligible to receive the Hacktoberfest Digital Reward Kit.
+
+# Important Guidelines
+Ensure your code is clean, well-documented, and follows best coding practices.
+
+Do not submit solutions that are already in the repository.
+
+Feel free to create issues or discussions for problem suggestions, improvements, or general questions.
+
+# Everyone is Welcome
+
+We welcome contributors of all levels, whether you're a beginner or an experienced coder. If you're new to open source or competitive programming, this is a great opportunity to learn and collaborate with others. If you're an experienced coder, we'd love to have your expertise.
+
+Happy Hacking, and let's make Hacktoberfest 2023 a great success together!
+
+
+
+
 
