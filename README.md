@@ -6,7 +6,7 @@ Hacktoberfest Participation Rules. This page provides comprehensive information 
 
 ![image](https://github.com/iShayann/calculator_drax/assets/115067200/a4f4d0f0-55e1-4506-b962-b06ebcd15bbc)
 
-# Everyone is Welcome
+#   Everyone is Welcome
 
 We welcome contributors of all levels, whether you're a beginner or an experienced coder. If you're new to open source or competitive programming, this is a great opportunity to learn and collaborate with others. If you're an experienced coder, we'd love to have your expertise.
 Happy Hacking, and let's make Hacktoberfest 2023 a great success together!
